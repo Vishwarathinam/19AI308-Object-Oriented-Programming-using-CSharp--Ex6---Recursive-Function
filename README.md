@@ -1,4 +1,4 @@
-# 19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function
+# Ex6---Recursive-Function
 ## Aim: 
 To write a C# program to reverse a number using a recursive function.
 
